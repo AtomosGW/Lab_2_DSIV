@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab_2_DSIV", "..\..\..\OneDrive\Documentos\Portafolio DSIV-Brian Cona\4. Actividades o Asignaciones\4. Laboratorios o Talleres\Brian Cona Lab1\Lab_1_DSIV\Lab_2_DSIV.csproj", "{38CC07FF-7932-4D68-93DC-BD45ECFB287A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38CC07FF-7932-4D68-93DC-BD45ECFB287A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38CC07FF-7932-4D68-93DC-BD45ECFB287A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38CC07FF-7932-4D68-93DC-BD45ECFB287A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38CC07FF-7932-4D68-93DC-BD45ECFB287A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77532848-113B-44C6-85ED-8DF529195B38}
+	EndGlobalSection
+EndGlobal
